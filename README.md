@@ -86,6 +86,7 @@ df.to_csv(r"C:\Users\Ankur\Documents\python\companies.csv", index=False)
 | `web_scrapping.py` | The scraping script |
 | `requirements.txt` | Python packages required to run the script |
 | `README.md` | Project documentation (this file) |
+| `companies.csv` | Scraped output: largest US companies by revenue, snapshot at time of scraping |
 
 ## Tech Stack
 
