@@ -19,12 +19,6 @@ As of writing, that table lists the top 100 US companies by revenue (Fortune 500
 5. **Extract row data**: for every table row after the header, grabs all `<td>` cell text and appends it to a pandas DataFrame.
 6. **Save to CSV**: writes the finished DataFrame to disk.
 
-## Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Open `web_scrapping.py` and update the output path at the bottom to a location on your machine:
